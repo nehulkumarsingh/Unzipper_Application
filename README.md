@@ -1,2 +1,2 @@
 # Unzipper_Application
-This application can be used for unzipping your Zip file
+Use this application for unzip your Zip file
